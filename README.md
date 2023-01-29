@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Emílio</h1>
+<h1 align="center">Hey , I'm Emílio Aguiar</h1>
 <h3 align="center">I'm passionate about the Actuarial field and applying it to Data Science</h3>
 
 - 🔭 I’m currently working on [Case study - Klarna](https://github.com/Emilio1030/klarna)
